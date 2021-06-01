@@ -1,1 +1,6 @@
 *.o
+out/determinante2x2.o
+out/determinante3x3.o
+out/main.o
+out/RestaMatriz.o
+out/SumaMatriz.o
